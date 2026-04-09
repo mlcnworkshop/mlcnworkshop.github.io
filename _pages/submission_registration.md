@@ -11,10 +11,9 @@ Here you find all information regarding the submission & registration for the wo
 Follow this [link]() to complete the registration procedure for this workshop MLCN 2026 via the MICCAI 2026 platform and by clicking [here you are directed to paper submissions]().
 
 ## Important Dates
-
-Paper submission deadline: TBD
+Paper submission deadline: 01.07.2026
 <br>
-Notification of Acceptance: TBD
+Notification of Acceptance: 31.07.2026
 <br>
 Camera-ready Submission: TBD
 <br>
