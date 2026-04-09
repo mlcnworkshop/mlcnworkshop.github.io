@@ -28,7 +28,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Yiming Xiao (Concordia University, Canada)](http://www.healthx-lab.ca/people.html)
 <br>
 <br>
-[Yanwu Yang (University of Tübingen & IMPRS-IS)](https://podismine.github.io)
+[Yanwu Yang (Max Planck Institute for Intelligent Systems)](https://podismine.github.io)
 
 ## Reviewers 2024
 Alexander Frotscher
