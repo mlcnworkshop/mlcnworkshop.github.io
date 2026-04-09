@@ -7,9 +7,6 @@ Various researchers, labs, and institutes contribute to this workshop.
 
 ## Workshop Organizers
 
-[Deepti R. Bathula (Indian Institute of Technology Ropar, India)](https://cse.iitrpr.ac.in/deepti/)
-<br>
-<br>
 [Nicha C. Dvornek (Yale University, USA)](http://www.hellonicha.com)
 <br>
 <br>
@@ -19,21 +16,19 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Vinod Kumar (Max Planck Institute for Biological Cybernetics, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
 <br>
 <br>
-[Ahmed Nebli (Heinrich Heine University Düsseldorf, Düsseldorf, Germany)]()
-<br>
-<br>
-[Anoop Benet Nirmala (Manipal Institute of Technology, India)](https://www.linkedin.com/in/anoop-benet-nirmala-phd-582213b0/)
-<br>
-<br>
 [Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/sindhujatg.html)
 <br>
 <br>
-[Thomas Wolfers (University Clinic Tübingen, Germany)](https://mhm-lab.github.io)
+[Bella Specktor-Fadida (University of Haifa, Israel)](https://cris.haifa.ac.il/en/persons/bella-specktor-fadida/)
+<br>
+<br>
+[Thomas Wolfers (University of Jena, Germany)](https://mhm-lab.github.io)
 <br>
 <br>
 [Yiming Xiao (Concordia University, Canada)](http://www.healthx-lab.ca/people.html)
 <br>
 <br>
+[Yanwu Yang (University of Tübingen & IMPRS-IS)](https://podismine.github.io)
 
 ## Reviewers 2024
 Alexander Frotscher
@@ -134,6 +129,8 @@ Zhoutong Cai
 <br>
 
 ## Previous Workshop Organizers
+2024 - Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Ahmed Nebli, Anoop Benet Nirmala, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Thomas Wolfers, Yiming Xiao
+<br>
 2023 - Ahmed Abdulkadir, Deepti R. Bathula, Esten Leonardsen, Nicha C. Dvornek, Mohamad Habes, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Thomas Wolfers, Yiming Xiao
 <br>
 2022 - Ahmed Abdulkadir, Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Thomas Wolfers
