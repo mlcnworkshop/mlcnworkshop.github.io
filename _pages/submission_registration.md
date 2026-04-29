@@ -60,7 +60,7 @@ Topics of interest include but are not limited to:
 To submit your work to the workshop, please ensure that it meets the following requirements:
 <ul>
     <li>The submission should be high-quality, original, and unpublished work that addresses one or more of the challenges outlined by the workshop below.</li>
-    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style. This are the MICCAI 2026 [LaTeX]({{ site.baseurl }}/files/MICCAI2026-Latex-Template.zip) and [MS Word]({{ site.baseurl }}/files/MICCAI2026-Word-Template.zip)templates.</li>
+    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style. These are the MICCAI 2026 <a href="{{ site.baseurl }}/files/MICCAI2026-Latex-Template.zip">LaTeX</a> and <a href="{{ site.baseurl }}/files/MICCAI2026-Word-Template.zip">MS Word</a> templates.</li>
     <li>The submission should be made through the OpenReview system, which can be accessed <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
     <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
 </ul>
