@@ -9,7 +9,7 @@ Here you find all information regarding the submission & registration for the wo
 ## Registration and Submission Links
 
 To submit a paper to the MLCN 2026 MICCAI workshop, first make sure you are registered on the OpenReview platform by signing up here: [https://openreview.net/signup](). 
-Then, visit the workshop page at [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN]() and submit your paper by clicking the "Add" button under "MICCAI 2026 Workshop MLCN Submission.".
+Then, when logged in, visit the workshop page at [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN]() and submit your paper by clicking the button "MICCAI 2026 Workshop MLCN Submission".
 
 ## Important Dates
 Paper submission deadline: 02.07.2026
