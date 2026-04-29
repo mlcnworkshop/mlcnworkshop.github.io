@@ -8,8 +8,8 @@ Here you find all information regarding the submission & registration for the wo
 
 ## Registration and Submission Links
 
-To submit a paper to the MLCN 2026 MICCAI workshop, first make sure you are registered on the OpenReview platform by signing up here: [https://openreview.net/signup](https://openreview.net/signup). 
-Then, when logged in, visit the workshop page at [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN) and submit your paper via "MICCAI 2026 Workshop MLCN Submission".
+To submit a paper to the MLCN 2026 MICCAI workshop, first make sure you are registered on the OpenReview platform by signing up [here](https://openreview.net/signup). 
+Then, when logged in, visit the [workshop submission page](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN) and submit your paper via "MICCAI 2026 Workshop MLCN Submission".
 
 ## Important Dates
 Paper submission deadline: 01.07.2026
@@ -60,7 +60,7 @@ Topics of interest include but are not limited to:
 To submit your work to the workshop, please ensure that it meets the following requirements:
 <ul>
     <li>The submission should be high-quality, original, and unpublished work that addresses one or more of the challenges outlined by the workshop below.</li>
-    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style, which includes detailed author guidelines available at this <a href="">link</a>.</li>
+    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style. This are the MICCAI 2026 [LaTeX]({{ site.baseurl }}/files/MICCAI2026-Latex-Template.zip) and [MS Word]({{ site.baseurl }}/files/MICCAI2026-Word-Template.zip)templates.</li>
     <li>The submission should be made through the OpenReview system, which can be accessed <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
     <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
 </ul>
