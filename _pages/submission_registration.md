@@ -16,7 +16,7 @@ Paper submission deadline: 01.07.2026
 <br>
 Notification of Acceptance: 31.07.2026
 <br>
-Camera-ready Submission: TBD
+Camera-ready Submission: 21.08.2026
 <br>
 Workshop Date: 01.10.2026
 <br>
