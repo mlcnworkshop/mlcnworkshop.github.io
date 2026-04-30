@@ -18,7 +18,7 @@ Notification of Acceptance: 31.07.2026
 <br>
 Camera-ready Submission: TBD
 <br>
-Workshop Date: TBD
+Workshop Date: 01.10.2026
 <br>
 
 ## Call for Papers -> TBD
