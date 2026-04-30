@@ -10,7 +10,7 @@ In this international workshop on ***Machine Learning in Clinical Neuroimaging**
 This year's workshop in Strasbourg (France) will be in person. Please check out our [submission & registration](https://mlcnworkshop.github.io/submission_registration/) if you like to submit a paper or attend the workshop.
 You find the [submission link by clicking here]().
 
-We are looking forward to seeing you @ this year's workshop!
+We are looking forward to seeing you @MICCAI2026 this year's workshop!
 
 Workshop Date: TBD
 

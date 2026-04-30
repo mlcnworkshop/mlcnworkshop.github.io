@@ -19,7 +19,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/sindhujatg.html)
 <br>
 <br>
-[Bella Specktor-Fadida (University of Haifa, Israel)](https://cris.haifa.ac.il/en/persons/bella-specktor-fadida/)
+[Bella Specktor-Fadida (University of Haifa, Israel)](https://bellaspecktor.github.io)
 <br>
 <br>
 [Thomas Wolfers (University of Jena, Germany)](https://mhm-lab.github.io)
@@ -30,103 +30,8 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 [Yanwu Yang (Max Planck Institute for Intelligent Systems, Germany)](https://podismine.github.io)
 
-## Reviewers 2024
-Alexander Frotscher
-<br>
-Amirhossein Rasoulian
-<br>
-Anne-Marie Rickmann
-<br>
-Anoop	Benet Nirmala
-<br>
-Benoit Dufumier
-<br>
-Christian Gerloff
-<br>
-Christian Wachinger
-<br>
-Dhivya Srinivasan
-<br>
-Di Wang
-<br>
-Didem Stark
-<br>
-Fabian Bongratz
-<br>
-Fanyang Yu
-<br>
-Francesco La Rosa
-<br>
-Hao Li
-<br>
-Hao-Chun Yang
-<br>
-Jiyao Wang
-<br>
-John A Onofrey
-<br>
-Kai-Cheng Chuang
-<br>
-Lawrence H	Staib
-<br>
-Lucas Mahler
-<br>
-Martin Dyrba
-<br>
-Mathilde Antoniades
-<br>
-Matthias N	Bossa
-<br>
-Matthias Wilms
-<br>
-Michael Tran Duong
-<br>
-Mumu Aktar
-<br>
-Nicolas Honnorat
-<br>
-Niharika S. D'Souza
-<br>
-Nikhil J	Dhinagar
-<br>
-Owen T	Carmichael
-<br>
-Peiyu	Duan
-<br>
-Ruisheng Su
-<br>
-Stefanos Ioannou
-<br>
-Tara Chand
-<br>
-Thomas Wolfers
-<br>
-Tianbo Xu
-<br>
-Tianyi Zeng
-<br>
-Vasiliki Tassopoulou
-<br>
-Vinod Kumar
-<br>
-Xueqi Guo
-<br>
-Yi Hao Chan
-<br>
-Yiming Xiao
-<br>
-Yuan Zhou
-<br>
-Yuexi Du
-<br>
-Yuhan Cui
-<br>
-Zhen Zhou
-<br>
-Zhenghan Fang
-<br>
-Zhoutong Cai
-<br>
+## Reviewers 2026
+TBD
 
 ## Previous Workshop Organizers
 2024 - Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Ahmed Nebli, Anoop Benet Nirmala, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Thomas Wolfers, Yiming Xiao

@@ -6,9 +6,10 @@ title: "Submission & Registration"
 Here you find all information regarding the submission & registration for the workshop.
 
 
-## Registration
+## Registration and Submission Links
 
-Follow this [link]() to complete the registration procedure for this workshop MLCN 2026 via the MICCAI 2026 platform and by clicking [here you are directed to paper submissions]().
+To submit a paper to the MLCN 2026 MICCAI workshop, first make sure you are registered on the OpenReview platform by signing up [here](https://openreview.net/signup). 
+Then, when logged in, visit the [workshop submission page](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN) and submit your paper via "MICCAI 2026 Workshop MLCN Submission".
 
 ## Important Dates
 Paper submission deadline: 01.07.2026
@@ -59,8 +60,8 @@ Topics of interest include but are not limited to:
 To submit your work to the workshop, please ensure that it meets the following requirements:
 <ul>
     <li>The submission should be high-quality, original, and unpublished work that addresses one or more of the challenges outlined by the workshop below.</li>
-    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style, which includes detailed author guidelines available at this <a href="">link</a>.</li>
-    <li>The submission should be made through the CMT system, which can be accessed <a href="">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
+    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style. These are the MICCAI 2026 <a href="{{ site.baseurl }}/files/MICCAI2026-Latex-Template.zip">LaTeX</a> and <a href="{{ site.baseurl }}/files/MICCAI2026-Word-Template.zip">MS Word</a> templates.</li>
+    <li>The submission should be made through the OpenReview system, which can be accessed <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
     <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
 </ul>
-<p>If your paper is accepted, it will be published in a joint proceeding with the MICCAI 2023 conference. Once accepted, you will need to prepare a camera-ready submission according to the guidelines provided at this <a href="">link</a>.</p>
+<p>If your paper is accepted, it will be published in a joint proceeding with the MICCAI 2026 conference. Once accepted, you will need to prepare a camera-ready submission according to the guidelines provided at this <a href="">link</a>.</p>
