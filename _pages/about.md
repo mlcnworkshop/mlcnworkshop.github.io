@@ -12,7 +12,7 @@ You find the [submission link by clicking here]().
 
 We are looking forward to seeing you @MICCAI2026 this year's workshop!
 
-Workshop Date: TBD
+Workshop Date: 01.10.2026
 
 ### Sponsors 
 
