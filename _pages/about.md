@@ -15,8 +15,11 @@ We are looking forward to seeing you @MICCAI2026 this year's workshop!
 Workshop Date: 01.10.2026
 
 ### Sponsors 
-<img align="center" src="/images/AI2D_logo.png" width="200 px" style="padding: 10px">
-<img align="center" src="/images/Yale_logo.jpg" width="200 px" style="padding: 10px">
+### Sponsors 
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <img src="{{ base_path }}/images/AI2D_logo.png" height="70">
+  <img src="{{ base_path }}/images/Yale_logo.jpg" height="70">
+</div>
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are interested in sponsoring our event.
 <br>
