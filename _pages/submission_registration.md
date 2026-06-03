@@ -21,7 +21,7 @@ Camera-ready Submission: 21.08.2026
 Workshop Date: 01.10.2026
 <br>
 
-## Call for Papers -> TBD
+## Call for Papers
 
 In the ***Machine Learning track***, we are seeking novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models.
 
