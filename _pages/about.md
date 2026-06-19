@@ -22,13 +22,13 @@ Workshop Date: 01.10.2026
 <br>
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="140">
+  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="180">
 </div>
 <br>
 <br>
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA.jpeg" height="70">
+  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA.jpeg" height="150">
 </div>
 <br>
 <br>
