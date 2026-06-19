@@ -63,5 +63,6 @@ To submit your work to the workshop, please ensure that it meets the following r
     <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style. These are the MICCAI 2026 <a href="{{ site.baseurl }}/files/MICCAI2026-Latex-Template.zip">LaTeX</a> and <a href="{{ site.baseurl }}/files/MICCAI2026-Word-Template.zip">MS Word</a> templates.</li>
     <li>The submission should be made through the OpenReview system, which can be accessed <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
     <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
+    <li>Please follow MICCAI guidelines regarding paper submission format, dual/double submission policy, conflicts of interest, plagiarism, and use of LLMs as discribed in [Section 3&4 on the MICCAI paper submission guidelines]( https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html)
 </ul>
 <p>If your paper is accepted, it will be published in a joint proceeding with the MICCAI 2026 conference. Once accepted, you will need to prepare a camera-ready submission (guidelines will be provided later).</p>
