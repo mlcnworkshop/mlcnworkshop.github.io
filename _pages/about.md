@@ -17,8 +17,21 @@ Workshop Date: 01.10.2026
 ### Sponsors 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
   <img src="https://mlcnworkshop.github.io/images/AI2D_logo.png" height="70">
-  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="70">
 </div>
+<br>
+<br>
+
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="140">
+</div>
+<br>
+<br>
+
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA.jpeg" height="70">
+</div>
+<br>
+<br>
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are interested in sponsoring our event.
 <br>
