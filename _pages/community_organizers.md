@@ -22,7 +22,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Bella Specktor-Fadida (University of Haifa, Israel)](https://bellaspecktor.github.io)
 <br>
 <br>
-[Thomas Wolfers (University of Jena & ELLIS Unit JENA, Germany)](https://mhm-lab.github.io)
+[Thomas Wolfers (University of Jena & ELLIS Unit Jena, Germany)](https://mhm-lab.github.io)
 <br>
 <br>
 [Yiming Xiao (Concordia University, Canada)](http://www.healthx-lab.ca/people.html)
