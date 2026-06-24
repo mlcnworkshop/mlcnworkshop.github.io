@@ -30,7 +30,7 @@ Workshop Date: 01.10.2026
 [Biomedical Imaging Institute @ Yale University](https://medicine.yale.edu/biomedical-imaging-institute)
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="30">
+  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="15">
 </div>
 <br>
 <br>
