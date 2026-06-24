@@ -28,7 +28,7 @@ Workshop Date: 01.10.2026
 <br>
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA.jpeg" height="75">
+  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="75">
 </div>
 <br>
 <br>
