@@ -16,19 +16,19 @@ Workshop Date: 01.10.2026
 
 ### Sponsors 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/AI2D_logo.png" height="40">
+  <img src="https://mlcnworkshop.github.io/images/AI2D_logo.png" height="30">
 </div>
 <br>
 <br>
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="90">
+  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="55">
 </div>
 <br>
 <br>
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="75">
+  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="30">
 </div>
 <br>
 <br>
