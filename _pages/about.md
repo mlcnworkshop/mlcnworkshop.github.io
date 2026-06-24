@@ -19,13 +19,11 @@ Workshop Date: 01.10.2026
   <img src="https://mlcnworkshop.github.io/images/AI2D_logo.png" height="30">
 </div>
 <br>
-<br>
 [AI2D @ University of Pennsylvania](https://ai2d.med.upenn.edu)
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
   <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="55">
 </div>
-<br>
 <br>
 [Biomedical Imaging Institute @ Yale University](https://medicine.yale.edu/biomedical-imaging-institute)
 
@@ -33,9 +31,7 @@ Workshop Date: 01.10.2026
   <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="15">
 </div>
 <br>
-<br>
 [EllIS Unit @ University of Jena](https://www.ellis-jena.ai)
-<br>
 <br>
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are interested in sponsoring our event.
