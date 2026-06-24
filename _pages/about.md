@@ -35,6 +35,8 @@ Workshop Date: 01.10.2026
 <br>
 <br>
 [EllIS Unit @ University of Jena](https://www.ellis-jena.ai)
+<br>
+<br>
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are interested in sponsoring our event.
 <br>
