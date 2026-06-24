@@ -14,25 +14,22 @@ We are looking forward to seeing you @MICCAI2026 this year's workshop!
 
 Workshop Date: 01.10.2026
 
-### Sponsors 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/AI2D_logo.png" height="30">
-</div>
-<br>
-[AI2D @ University of Pennsylvania](https://ai2d.med.upenn.edu)
+### Sponsors
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg" height="55">
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
+  <a href="https://ai2d.med.upenn.edu">
+    <img src="https://mlcnworkshop.github.io/images/AI2D_logo.png"
+         style="max-height: 50px; max-width: 140px; object-fit: contain;">
+  </a>
+  <a href="https://medicine.yale.edu/biomedical-imaging-institute">
+    <img src="https://mlcnworkshop.github.io/images/Yale_logo.jpg"
+         style="max-height: 50px; max-width: 140px; object-fit: contain;">
+  </a>
+  <a href="https://www.ellis-jena.ai">
+    <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png"
+         style="max-height: 50px; max-width: 140px; object-fit: contain;">
+  </a>
 </div>
-<br>
-[Biomedical Imaging Institute @ Yale University](https://medicine.yale.edu/biomedical-imaging-institute)
-
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://mlcnworkshop.github.io/images/ELLIS_JENA_1.png" height="15">
-</div>
-<br>
-[EllIS Unit @ University of Jena](https://www.ellis-jena.ai)
-<br>
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are interested in sponsoring our event.
 <br>
