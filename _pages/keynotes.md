@@ -10,7 +10,9 @@ title: "Keynote Speakers"
 <br>
 <br>
 
-## Keynote2: TBD
+## Keynote2: Jean Feydy
+
+<img align="left" src="https://github.com/mlcnworkshop/mlcnworkshop.github.io/blob/master/images/Jean_Feydy.jpeg" width="150 px" style="padding: 10px"> Jean Feydy is a tenured research scientist at Inria Paris. Following a PhD on the mathematical foundations of shape registration and a postdoc focused on geometric deep learning for structural biology, he joined the HeKA team, a translational research unit dedicated to public health and computational anatomy. His research focuses on bridging the gap between domain-specific modelling constraints and fast GPU implementations. Jean maintains the PyKeOps and GeomLoss libraries: two PyTorch extensions for geometric machine learning and optimal transport that have been downloaded over a million times each. Currently, he is bringing scalable survival and shape analysis to clinical research through the survivalGPU and scikit-shapes projects.
 <br>
 <br>
 <br>
