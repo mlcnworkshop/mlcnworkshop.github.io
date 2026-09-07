@@ -4,14 +4,12 @@ title: "Workshop Program"
 ---
 
 ### KEYNOTE - Jean Feydy
-Inria Paris, France
 
 ***Title: Geometric Insights on Matching Problems***
 <br>
 Abstract: Image registration, generative modelling and cohort balancing are all matching problems: they seek an assignment that best aligns two distributions of samples under a suitable, domain-specific regularization prior. In this talk, I will summarize insights from the past decade of theoretical research in the field. In particular, I will show how objectives penalizing distortions (leading to the "Gromov-Wasserstein" or "Quadratic" Assignment Problem) can always be understood as affine registration methods in a suitable feature space. This perspective unifies several lines of work and paves the way for robust optimization algorithms that can be used either as standalone tools or as flexible layers in machine learning pipelines.
 
 ### KEYNOTE - Archana Venkataraman
-Boston University, USA
 
 ***Title: Lightweight and Interpretable AI as a New Window into Brain Dysfunction***
 <br>
