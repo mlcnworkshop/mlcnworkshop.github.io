@@ -35,7 +35,7 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 <tbody>
 <tr><td>1:30 PM</td><td colspan="4"><strong>Opening</strong></td></tr>
 <tr class="section"><td colspan="5"><strong>Session 1: ML</strong></td></tr>
-<tr><td>1:35 PM</td><td><strong>Keynote #1</strong></td><td><strong>Lightweight and Interpretable AI as a New Window into Brain Dysfunction</strong></td><td><strong>Archana Venkataraman</strong></td><td>Inria Paris, France</td></tr>
+<tr><td>1:35 PM</td><td><strong>Keynote #1</strong></td><td><strong>Lightweight and Interpretable AI as a New Window into Brain Dysfunction</strong></td><td><strong>Archana Venkataraman</strong></td><td>Boston University, USA</td></tr>
 <tr><td>2:15 PM</td><td>Lightning Talks</td><td>Text-Guided Multimodal Multitask Learning for Brain Tumor Segmentation</td><td>Mumu Aktar</td><td>Toronto Metropolitan University, Canada</td></tr>
 <tr><td></td><td></td><td>Rapid Whole-Brain Parcellation</td><td>Joshua R. Astley</td><td>King&#x27;s College London, UK</td></tr>
 <tr><td></td><td></td><td>Selection of Informative Variables in Y-Aware Framework: Insights from Genetic and Behavioural Data</td><td>Antoine Didier</td><td>NeuroSpin, France</td></tr>
@@ -53,7 +53,7 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 <tr><td>3:05 PM</td><td colspan="4"><strong>Poster Session</strong></td></tr>
 <tr><td>3:30 PM</td><td colspan="4"><strong>Coffee Break</strong></td></tr>
 <tr class="section"><td colspan="5"><strong>Session 2: CN</strong></td></tr>
-<tr><td>4:00 PM</td><td><strong>Keynote #2</strong></td><td><strong>Geometric Insights on Matching Problems</strong></td><td><strong>Jean Feydy</strong></td><td>Boston University, USA</td></tr>
+<tr><td>4:00 PM</td><td><strong>Keynote #2</strong></td><td><strong>Geometric Insights on Matching Problems</strong></td><td><strong>Jean Feydy</strong></td><td>Inria Paris, France</td></tr>
 <tr><td>4:40 PM</td><td>Lightning Talks</td><td>Probability-Invariant Random Walk Learning on Gyral Folding-Based Cortical Similarity Networks for Alzheimer&#x27;s and Lewy Body Dementia Diagnosis</td><td>Minheng Chen</td><td>University of Texas at Arlington, USA</td></tr>
 <tr><td></td><td></td><td>SFINX: Structure-informed Functional-MRI Integration via xLSTM for Autism Diagnosis</td><td>Peiyu Duan</td><td>Yale University, USA</td></tr>
 <tr><td></td><td></td><td>Automated Segmentation and Height Measurement of Pituitary Gland</td><td>Vahe Petrosyan</td><td>American University of Armenia</td></tr>
