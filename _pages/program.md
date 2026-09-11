@@ -3,17 +3,21 @@ permalink: /program/
 title: "Workshop Program"
 ---
 
-### KEYNOTE - Jean Feydy
+### KEYNOTE - Archana Venkataraman
+
+
+***Title: Lightweight and Interpretable AI as a New Window into Brain Dysfunction***
+<br>
+Abstract: Deep learning has disrupted nearly every major field, from computer vision to genomics, fueled by an explosion of data: millions of labeled images, thousands of annotated ICU admissions, hundreds of hours of transcribed speech. Clinical neuroscience is a notable holdout, a field of unavoidably small datasets, massive patient variability, and complex, largely unknown phenomena. My lab tackles these challenges from foundational neuroscientific questions to translational applications of neuroimaging and exploratory probing of neural circuitry, with a key strategy of using domain knowledge to build models that are both lightweight and interpretable. This talk highlights two ongoing lines of work in epilepsy. First, seizure detection from scalp EEG, where a simple transformer combines spatial and temporal information in continuous recordings to pinpoint both the time of onset and the involved scalp areas across a large clinical dataset. Second, as a follow-up, we ask what attributes of the EEG signal drive the model's prediction: using contrastive training we align the model's EEG encodings with textual concept embeddings derived from clinical notes, then apply attention-weighted pooling to detect patient-specific seizure and baseline etiologies.
+
+
+
+### KEYNOTE - Jean Feydy 
 
 ***Title: Geometric Insights on Matching Problems***
 <br>
 Abstract: Image registration, generative modelling and cohort balancing are all matching problems: they seek an assignment that best aligns two distributions of samples under a suitable, domain-specific regularization prior. In this talk, I will summarize insights from the past decade of theoretical research in the field. In particular, I will show how objectives penalizing distortions (leading to the "Gromov-Wasserstein" or "Quadratic" Assignment Problem) can always be understood as affine registration methods in a suitable feature space. This perspective unifies several lines of work and paves the way for robust optimization algorithms that can be used either as standalone tools or as flexible layers in machine learning pipelines.
 
-### KEYNOTE - Archana Venkataraman
-
-***Title: Lightweight and Interpretable AI as a New Window into Brain Dysfunction***
-<br>
-Abstract: Deep learning has disrupted nearly every major field, from computer vision to genomics, fueled by an explosion of data: millions of labeled images, thousands of annotated ICU admissions, hundreds of hours of transcribed speech. Clinical neuroscience is a notable holdout, a field of unavoidably small datasets, massive patient variability, and complex, largely unknown phenomena. My lab tackles these challenges from foundational neuroscientific questions to translational applications of neuroimaging and exploratory probing of neural circuitry, with a key strategy of using domain knowledge to build models that are both lightweight and interpretable. This talk highlights two ongoing lines of work in epilepsy. First, seizure detection from scalp EEG, where a simple transformer combines spatial and temporal information in continuous recordings to pinpoint both the time of onset and the involved scalp areas across a large clinical dataset. Second, as a follow-up, we ask what attributes of the EEG signal drive the model's prediction: using contrastive training we align the model's EEG encodings with textual concept embeddings derived from clinical notes, then apply attention-weighted pooling to detect patient-specific seizure and baseline etiologies.
 
 ### PROGRAMME
 **MLCN 2026 @ MICCAI 2026, Strasbourg, France. Thursday, 1 October 2026 (all times local).**
@@ -31,7 +35,7 @@ Abstract: Deep learning has disrupted nearly every major field, from computer vi
 <tbody>
 <tr><td>1:30 PM</td><td colspan="4"><strong>Opening</strong></td></tr>
 <tr class="section"><td colspan="5"><strong>Session 1: ML</strong></td></tr>
-<tr><td>1:35 PM</td><td><strong>Keynote #1</strong></td><td><strong>Geometric Insights on Matching Problems</strong></td><td><strong>Jean Feydy</strong></td><td>Inria Paris, France</td></tr>
+<tr><td>1:35 PM</td><td><strong>Keynote #1</strong></td><td><strong>Lightweight and Interpretable AI as a New Window into Brain Dysfunction</strong></td><td><strong>Archana Venkataraman</strong></td><td>Inria Paris, France</td></tr>
 <tr><td>2:15 PM</td><td>Lightning Talks</td><td>Text-Guided Multimodal Multitask Learning for Brain Tumor Segmentation</td><td>Mumu Aktar</td><td>Toronto Metropolitan University, Canada</td></tr>
 <tr><td></td><td></td><td>Rapid Whole-Brain Parcellation</td><td>Joshua R. Astley</td><td>King&#x27;s College London, UK</td></tr>
 <tr><td></td><td></td><td>Selection of Informative Variables in Y-Aware Framework: Insights from Genetic and Behavioural Data</td><td>Antoine Didier</td><td>NeuroSpin, France</td></tr>
@@ -49,7 +53,7 @@ Abstract: Deep learning has disrupted nearly every major field, from computer vi
 <tr><td>3:05 PM</td><td colspan="4"><strong>Poster Session</strong></td></tr>
 <tr><td>3:30 PM</td><td colspan="4"><strong>Coffee Break</strong></td></tr>
 <tr class="section"><td colspan="5"><strong>Session 2: CN</strong></td></tr>
-<tr><td>4:00 PM</td><td><strong>Keynote #2</strong></td><td><strong>Lightweight and Interpretable AI as a New Window into Brain Dysfunction</strong></td><td><strong>Archana Venkataraman</strong></td><td>Boston University, USA</td></tr>
+<tr><td>4:00 PM</td><td><strong>Keynote #2</strong></td><td><strong>Geometric Insights on Matching Problems</strong></td><td><strong>Jean Feydy</strong></td><td>Boston University, USA</td></tr>
 <tr><td>4:40 PM</td><td>Lightning Talks</td><td>Probability-Invariant Random Walk Learning on Gyral Folding-Based Cortical Similarity Networks for Alzheimer&#x27;s and Lewy Body Dementia Diagnosis</td><td>Minheng Chen</td><td>University of Texas at Arlington, USA</td></tr>
 <tr><td></td><td></td><td>SFINX: Structure-informed Functional-MRI Integration via xLSTM for Autism Diagnosis</td><td>Peiyu Duan</td><td>Yale University, USA</td></tr>
 <tr><td></td><td></td><td>Automated Segmentation and Height Measurement of Pituitary Gland</td><td>Vahe Petrosyan</td><td>American University of Armenia</td></tr>
