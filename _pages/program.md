@@ -44,7 +44,7 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 <tr><td></td><td></td><td>Do CNNs Learn Clinically Meaningful Imaging Representations? A Portable Multi-level Representation Audit for Brain Tumor MRI Classification</td><td>Bo-Wei Lai</td><td>National Yang Ming Chiao Tung University, Taiwan</td></tr>
 <tr><td></td><td></td><td>MRI-Based Brain Age Estimation with Supervised Contrastive Learning of Continuous Representation</td><td>Simon Joseph Clément Crête</td><td>Concordia University, Canada</td></tr>
 <tr><td></td><td></td><td>EEG-LoGNet: Bridging Local Features and Global Contexts for EEG-Based Motor Imagery Classification</td><td>Jinsong Guo</td><td>Southern University of Science and Technology, China</td></tr>
-<tr><td></td><td></td><td>Heterogeneous Reservoir Dynamics Reveal Disease-Specific Temporal Fingerprints</td><td>Mayssa Soussia</td><td>ENISo, Tunisia</td></tr>
+<tr><td></td><td></td><td>Heterogeneous Reservoir Dynamics Reveal Disease-Specific Temporal Fingerprints</td><td>Mayssa Ben Soussia</td><td>ENISo, Tunisia</td></tr>
 <tr><td>2:25 PM</td><td>Oral 1</td><td>MEROS: Multi-view Expert Routing in Ordinal Space for MDD Spectrum Assessment</td><td>Yilin Leng</td><td>University of Science and Technology of China</td></tr>
 <tr><td>2:35 PM</td><td>Oral 2</td><td>SARAR: Shortcut-Aware 3D Brain MRI Question Answering via Retrieval-Augmented Reranking</td><td>Mohammad H. Abbasi</td><td>Stanford University, USA</td></tr>
 <tr><td>2:45 PM</td><td>Oral 3</td><td>Spatial Feature-wise Linear Modulation (SpFiLM) for Contrast Agent-Aware Brain Parcellation</td><td>Joshua Astley</td><td>King&#x27;s College London, UK</td></tr>
