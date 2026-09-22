@@ -61,7 +61,7 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 <tr><td></td><td></td><td>The Diagnosis a Reporter Leaves Unspoken: Surfacing Frozen Tumor Features for Brain-Tumor MRI Reporting</td><td>Khawaja Murad ul Hassan</td><td>National University of Science and Technology, Pakistan</td></tr>
 <tr><td></td><td></td><td>From Blood to Brain: Uncertainty-Aware Adaptive Fusion for Alzheimer’s Staging and Progression Under Incomplete Multimodal Profiles</td><td>Shahzad Ali</td><td>University of Bologna, Italy</td></tr>
 <tr><td></td><td></td><td>Network Alterations Precede Atrophy in Alzheimer’s Disease Progression Subtypes</td><td>Bailey Berman</td><td>Erasmus MC, The Netherlands</td></tr>
-<tr><td></td><td></td><td>Graph-Theoretical Task-Based Frontal Brain Network of Visual Working-Memory Load: An fNIRS Study</td><td>Arman Nik Khah</td><td>University of Texas at Dallas, USA</td></tr>
+<tr><td></td><td></td><td>Graph-Theoretical Task-Based Frontal Brain Network of Visual Working-Memory Load: An fNIRS Study</td><td>Chandramallika Basak</td><td>University of Texas at Dallas, USA</td></tr>
 <tr><td></td><td></td><td>Implicit Neural Representations for Modeling the Accumulation of Tau Protein in the Brain</td><td>Nicolas Honnorat</td><td>University of Texas Health Science Center at San Antonio, USA</td></tr>
 <tr><td>4:50 PM</td><td>Oral 5</td><td>A Unified Brain MRI Reporting Framework Built on CoT-Guided VLM and Expert Models</td><td>Yuxiao Liu</td><td>ShanghaiTech University, China</td></tr>
 <tr><td>5:00 PM</td><td>Oral 6</td><td>Paramagnetic Rim Lesion Instance Segmentation in Multiple Sclerosis Using Conditional Convolutions</td><td>Amirhossein Rasoulian</td><td>NeuroRx, Canada</td></tr>
