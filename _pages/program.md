@@ -71,8 +71,9 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 <tr><td>6:00 PM</td><td colspan="4"><strong>End</strong></td></tr>
 </tbody></table>
 
+### Posters
 
-### Theme 1 — Machine Learning
+## Theme 1 — Machine Learning
 
 | # | Title |
 |---:|---|
@@ -89,7 +90,7 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 | 11 | EEG-LoGNet: Bridging Local Features and Global Contexts for EEG-Based Motor Imagery Classification |
 | 12 | Heterogeneous Reservoir Dynamics Reveal Disease-Specific Temporal Fingerprints |
 
-### Theme 2 — Clinical Applications
+## Theme 2 — Clinical Applications
 
 | # | Title |
 |---:|---|
