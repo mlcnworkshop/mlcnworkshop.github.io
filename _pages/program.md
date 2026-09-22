@@ -70,3 +70,33 @@ Abstract: Image registration, generative modelling and cohort balancing are all 
 <tr><td>5:30 PM</td><td colspan="4"><strong>Closing + Awards</strong></td></tr>
 <tr><td>6:00 PM</td><td colspan="4"><strong>End</strong></td></tr>
 </tbody></table>
+
+### Poster Theme 1: Machine Learning
+1. MEROS: Multi-view Expert Routing in Ordinal Space for MDD Spectrum Assessment
+2. SARAR: Shortcut-Aware 3D Brain MRI Question Answering via Retrieval-Augmented Reranking
+3. Rapid Whole-Brain Parcellation
+4. Cross-Modality Structural Guidance in 3D Latent Diffusion for Robust FLAIR Super-Resolution
+5. TIIC: Tabular Integration of Imaging and Clinical Data for Interpretable Multimodal Inference for Alzheimer’s Disease
+6. Selection of Informative Variables in Y-Aware Framework: Insights from Genetic and Behavioural Data
+7. Representation Learning for 3D Brain Imaging: A Benchmark
+8. Few-Shot Cross-Site Domain Generalization for Multi-Site Autism Brain Network Classification
+9. Do CNNs Learn Clinically Meaningful Imaging Representations? A Portable Multi-level Representation Audit for Brain Tumor MRI Classification
+10. MRI-Based Brain Age Estimation with Supervised Contrastive Learning of Continuous Representation
+11. EEG-LoGNet: Bridging Local Features and Global Contexts for EEG-Based Motor Imagery Classification
+12. Heterogeneous Reservoir Dynamics Reveal Disease-Specific Temporal Fingerprints
+
+### Poster Theme 2: Clinical Applications
+13. A Unified Brain MRI Reporting Framework Built on CoT-Guided VLM and Expert Models
+14. Paramagnetic Rim Lesion Instance Segmentation in Multiple Sclerosis Using Conditional Convolutions
+15. Text-Guided Multimodal Multitask Learning for Brain Tumor Segmentation
+16. What Do Persistent Misclassifications Tell Us About Alzheimer’s Disease Detection using Structural MRI?
+17. Spatial Feature-wise Linear Modulation (SpFiLM) for Contrast Agent-Aware Brain Parcellation
+18. Probability-Invariant Random Walk Learning on Gyral Folding-Based Cortical Similarity Networks for Alzheimer's and Lewy Body Dementia Diagnosis
+19. SFINX: Structure-informed Functional-MRI Integration via xLSTM for Autism Diagnosis
+20. Automated Segmentation and Height Measurement of Pituitary Gland
+21. Toward Personalized Dyslexia Classification via Dynamic Functional Connectivity and Explainable AI
+22. The Diagnosis a Reporter Leaves Unspoken: Surfacing Frozen Tumor Features for Brain-Tumor MRI Reporting
+11. From Blood to Brain: Uncertainty-Aware Adaptive Fusion for Alzheimer’s Staging and Progression Under Incomplete Multimodal Profiles
+12. Network Alterations Precede Atrophy in Alzheimer’s Disease Progression Subtypes
+13. Graph-Theoretical Task-Based Frontal Brain Network of Visual Working-Memory Load: An fNIRS Study
+14. Implicit Neural Representations for Modeling the Accumulation of Tau Protein in the Brain
