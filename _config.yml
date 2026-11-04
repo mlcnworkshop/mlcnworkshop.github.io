@@ -14,12 +14,6 @@ future          : true
 og_image        : "auckland.jpg"            # social preview image (in /images)
 google_site_verification :                 # paste the Google Search Console code here
 
-# Sidebar
-author:
-  avatar        : "MLCN_logo_blue.png"
-  location      : "MICCAI 2027 · Auckland, New Zealand"
-  youtube       : "https://www.youtube.com/channel/UC7RKhS5bHKiuYXdaBolX6Og"
-
 include:
   - _pages
   - files
@@ -41,7 +35,7 @@ kramdown:
 
 defaults:
   - scope: { path: "", type: pages }
-    values: { layout: single, author_profile: true }
+    values: { layout: single }
 
 sass:
   sass_dir      : _sass

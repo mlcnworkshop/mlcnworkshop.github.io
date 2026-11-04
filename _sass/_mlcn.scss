@@ -77,3 +77,8 @@ body { color: $text; }
   li::before { content: ""; position: absolute; left: 0; top: .2rem; width: 1.15rem; height: 1.15rem; border-radius: 50%;
     background: $accent-soft url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23024768' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 12.5l4 4L18 8'/%3E%3C/svg%3E") center/70% no-repeat; } }
 @media (max-width: 560px) { .page__content h1 { font-size: 1.7rem; } .mlcn-lead { font-size: 1.08rem; } }
+
+/* No sidebar: content uses the full screen width */
+#main { max-width: 1400px; margin: 0 auto; padding-left: clamp(16px, 4vw, 48px); padding-right: clamp(16px, 4vw, 48px); }
+.mlcn-banner img { height: clamp(220px, 28vw, 420px); }
+.page { float: none !important; width: 100% !important; margin: 0 auto !important; padding: 0 !important; }
