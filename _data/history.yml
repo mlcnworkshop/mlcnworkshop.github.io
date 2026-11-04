@@ -1,25 +1,33 @@
 # One entry per past workshop. Add the new year at the top after each edition.
 - year: 2026
+  city: Strasbourg
   keynotes: Archana Venkataraman · Jean Feydy
   organizers: Nicha C. Dvornek, Mohamad Habes, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Bella Specktor-Fadida, Thomas Wolfers, Yiming Xiao, Yanwu Yang
 - year: 2024
+  city: Marrakesh
   keynotes: Udunna Anazodo · Ehsan Adeli
   organizers: Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Ahmed Nebli, Anoop Benet Nirmala, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Thomas Wolfers, Yiming Xiao
 - year: 2023
+  city: Vancouver
   keynotes: Neda Jahanshad · Catie Chang
   organizers: Ahmed Abdulkadir, Deepti R. Bathula, Esten Leonardsen, Nicha C. Dvornek, Mohamad Habes, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Thomas Wolfers, Yiming Xiao
 - year: 2022
+  city: Singapore
   keynotes: Marius de Groot · Thomas Yeo
   organizers: Ahmed Abdulkadir, Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Thomas Wolfers
 - year: 2021
+  city: virtual
   keynotes: Adrian Dalca · Paul Thompson
   organizers: Ahmed Abdulkadir, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Jane Maryam Rondina, Chantal Tax, Thomas Wolfers
 - year: 2020
+  city: virtual
   keynotes: Duygu Tosun-Turgut · Jorge Cardoso
   organizers: Ahmed Abdulkadir, Cher Bass, Mohamad Habes, Seyed Mostafa Kia, Jane Maryam Rondina, Chantal Tax, Hongzhi Wang, Thomas Wolfers
 - year: 2019
+  city: Shenzhen
   keynotes: Yong Fan · Pamela Douglas
   organizers: Mohamad Habes, Seyed Mostafa Kia, Tommy Löfstedt, Kerstin Ritter, Hongzhi Wang
 - year: 2018
+  city: Granada
   keynotes: Christos Davatzikos · Gael Varoquaux · Georg Langs
   organizers: Seyed Mostafa Kia, Andre Marquand, Edouard Duchesnay, Tommy Löfstedt

@@ -48,9 +48,9 @@ body { color: $text; }
   &:first-of-type { border-top: 1px solid $line; }
   strong { color: $ink; } .date { font-weight: 700; color: $tba; } }
 
-.mlcn-sponsors { display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem 3rem; padding: 1.25rem 0; border-top: 1px solid $line;
-  img { height: 76px; width: auto; max-width: 250px; object-fit: contain; }
-  img.sq { height: 124px; } }
+.mlcn-sponsors { display: flex; flex-wrap: wrap; align-items: center; gap: 2rem 4rem; justify-content: space-around; padding: 1.5rem 0; border-top: 1px solid $line;
+  img { height: 100px; width: auto; max-width: 320px; object-fit: contain; }
+  img.sq { height: 160px; } }
 
 .mlcn-note { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid $line; color: $muted; font-size: .9rem; }
 
@@ -82,3 +82,27 @@ body { color: $text; }
 #main { max-width: 1400px; margin: 0 auto; padding-left: clamp(16px, 4vw, 48px); padding-right: clamp(16px, 4vw, 48px); }
 .mlcn-banner img { height: clamp(220px, 28vw, 420px); }
 .page { float: none !important; width: 100% !important; margin: 0 auto !important; padding: 0 !important; }
+
+/* keynotes */
+.mlcn-years { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; margin-top: 1rem; }
+.mlcn-year { border: 1px solid $line; border-radius: 12px; padding: 1rem 1.1rem; transition: border-color .2s, transform .2s;
+  &:hover { border-color: $accent-light; transform: translateY(-2px); }
+  .y { display: block; font-size: 1.5rem; font-weight: 800; color: $accent; line-height: 1; }
+  .c { display: block; font-size: .72rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: $muted; margin: .3rem 0 .5rem; }
+  p { margin: 0; color: $ink; font-size: .95rem; } }
+.mlcn-keynote { display: flex; gap: 1.5rem; padding: 1.5rem 0; border-top: 1px solid $line;
+  img { flex: 0 0 140px; width: 140px; height: 140px; object-fit: cover; border-radius: 50%; }
+  h2 { margin: 0 0 .3rem; }
+  @media (max-width: 600px) { flex-direction: column; } }
+.mlcn-small { color: $muted; font-size: .9rem; }
+
+/* organizers */
+.mlcn-people { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: .75rem; }
+.mlcn-person { display: flex; gap: 1rem; align-items: center; border: 1px solid $line; border-radius: 12px; padding: .8rem 1rem;
+  .av { flex: 0 0 52px; width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; color: #fff; font-weight: 700;
+    background: linear-gradient(135deg, $accent-light, $accent); box-shadow: 0 0 0 4px $accent-soft; }
+  a { text-decoration: none; font-size: 1.05rem; } .first { color: $muted; } .last { color: $ink; font-weight: 700; }
+  p { margin: .1rem 0 0; color: $accent; font-size: .85rem; font-weight: 600; line-height: 1.35; } }
+.mlcn-prev { padding: .8rem 0; border-bottom: 1px solid $line;
+  .y { color: $accent; font-size: .75rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+  p { margin: .2rem 0 0; color: $muted; font-size: .92rem; } }
