@@ -45,4 +45,4 @@ hide_title: true
 {% for q in w.faq %}<details{% if forloop.first %} open{% endif %}><summary>{{ q.q }}</summary><p>{{ q.a }}</p></details>
 {% endfor %}</div>
 
-<p class="mlcn-note">Papers from previous years are in the <a href="{{ w.proceedings }}">MLCN proceedings</a>; some talks are on our <a href="{{ w.youtube }}">YouTube channel</a>.{% if w.banner_credit %} <a href="{{ w.banner_credit_url }}">{{ w.banner_credit }}</a>.{% endif %}</p>
+<p class="mlcn-note">Papers from previous years are in the <a href="{{ w.proceedings }}">MLCN proceedings</a>; some talks are on our <a href="{{ w.youtube }}">YouTube channel</a>.</p>

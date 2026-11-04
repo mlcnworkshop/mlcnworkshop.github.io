@@ -12,8 +12,6 @@ workshop_start: ""                 # e.g. 2027-09-27 once known
 country_code: NZ
 workshop_date: TBA                 # e.g. "Monday, 27 September 2027"
 banner: /images/auckland.jpg
-banner_credit: "Photo: Auckland CBD skyline from the Waitematā Harbour, by Pseudopanax, public domain, via Wikimedia Commons"
-banner_credit_url: https://commons.wikimedia.org/wiki/File:Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg
 
 # Links (leave empty "" until available)
 openreview: ""                     # e.g. https://openreview.net/group?id=MICCAI.org/2027/Workshop/MLCN
