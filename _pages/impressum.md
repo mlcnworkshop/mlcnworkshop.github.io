@@ -1,4 +1,5 @@
 ---
+description: "Impressum (legal notice) of the MLCN workshop website."
 permalink: /impressum/
 title: "Impressum"
 ---

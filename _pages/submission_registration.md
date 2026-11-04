@@ -1,24 +1,19 @@
 ---
+description: "Call for papers for MLCN 2027 (Machine Learning in Clinical Neuroimaging) at MICCAI 2027: tracks, topics, deadlines and submission requirements."
 permalink: /submission_registration/
 title: "Submission & Registration"
 ---
+{% assign w = site.data.workshop %}
 
-Here you find all information regarding the submission & registration for the workshop.
+## Submission
 
-
-## Registration and Submission Links
-
-To submit a paper to the MLCN 2026 MICCAI workshop, first make sure you are registered on the OpenReview platform by signing up [here](https://openreview.net/signup). 
-Then, when logged in, visit the [workshop submission page](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN) and submit your paper via "MICCAI 2026 Workshop MLCN Submission".
+{% if w.openreview != "" %}To submit a paper to the MLCN {{ w.year }} MICCAI workshop, first make sure you are registered on the OpenReview platform by signing up [here](https://openreview.net/signup).
+Then, when logged in, visit the [workshop submission page]({{ w.openreview }}) and submit your paper via "MICCAI {{ w.year }} Workshop MLCN Submission".{% else %}The submission link for MLCN {{ w.year }} will be posted here once the call for papers opens. Submissions are handled through [OpenReview](https://openreview.net/signup).{% endif %}
 
 ## Important Dates
-Paper submission deadline: 08.07.2026
+{% for d in w.dates %}{{ d.label }}: {{ d.date }}
 <br>
-Notification of Acceptance: 07.08.2026
-<br>
-Camera-ready Submission: 21.08.2026
-<br>
-Workshop Date: 01.10.2026
+{% endfor %}Workshop: {{ w.workshop_date }}
 <br>
 
 ## Call for Papers
@@ -29,40 +24,28 @@ In the ***Clinical Neuroimaging track***, we are interested in papers with an ap
 
 Topics of interest include but are not limited to:
 <ul>
-    <li>Big data</li>
-    <li>Spatio-temporal brain data analysis</li>
-    <li>Structural data analysis</li>
+    <li>Spatio-temporal, structural and longitudinal brain data analysis</li>
     <li>Graph theory and complex network analysis</li>
-    <li>Longitudinal data analysis</li>
-    <li>Model stability and interpretability</li>
-    <li>Model scalability in large neuroimaging datasets</li>
+    <li>Model stability, interpretability and uncertainty in clinical predictions</li>
+    <li>Scalable models for big and multi-site neuroimaging data, from preprocessing to modeling</li>
     <li>Multi-source data integration and multi-view learning</li>
-    <li>Multi-site data analysis, from preprocessing to modeling</li>
-    <li>Domain adaptation, data harmonization, and transfer learning in neuroimaging</li>
-    <li>Unsupervised methods for stratifying brain disorders</li>
-    <li>Deep learning in clinical neuroimaging</li>
-    <li>Model uncertainty in clinical predictions</li>
-    <li>Biomarker discovery</li>
-    <li>Refinement of nosology and diagnostics</li>
-    <li>Biological validation of clinical syndromes</li>
-    <li>Treatment outcome prediction</li>
-    <li>Course prediction</li>
-    <li>Analysis of wearable sensors</li>
+    <li>Domain adaptation, data harmonization and transfer learning</li>
+    <li>Unsupervised stratification of brain disorders</li>
+    <li>Biomarker discovery, refinement of nosology and diagnostics, biological validation of clinical syndromes</li>
+    <li>Treatment outcome and course prediction</li>
+    <li>Wearable sensors</li>
     <li>Neurogenetics and brain imaging genetics</li>
     <li>Mechanistic modeling</li>
     <li>Brain aging</li>
-    <li>Database for machine learning</li>
-    <li>...</li>
+    <li>Databases for machine learning</li>
 </ul>
 
-## Submission Requirements & Process:
+## Submission Requirements
 
-To submit your work to the workshop, please ensure that it meets the following requirements:
-<ul>
-    <li>The submission should be high-quality, original, and unpublished work that addresses one or more of the challenges outlined by the workshop below.</li>
-    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style. These are the MICCAI 2026 <a href="{{ site.baseurl }}/files/MICCAI2026-Latex-Template.zip">LaTeX</a> and <a href="{{ site.baseurl }}/files/MICCAI2026-Word-Template.zip">MS Word</a> templates.</li>
-    <li>The submission should be made through the OpenReview system, which can be accessed <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
-    <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
-    <li>Please follow MICCAI guidelines regarding paper submission format, dual/double submission policy, conflicts of interest, plagiarism, and use of LLMs as discribed in <a href="https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html"> Section 3&4 in the MICCAI paper submission guidelines.</a>
+<ul class="mlcn-checks">
+    <li>Original, unpublished work within the scope above.</li>
+    <li>Springer Lecture Notes in Computer Science (LNCS) format, at most 8 pages including figures and tables, plus up to 2 pages of references.{% if w.latex_template != "" %} These are the MICCAI {{ w.year }} <a href="{{ w.latex_template }}">LaTeX</a> and <a href="{{ w.word_template }}">MS Word</a> templates.{% endif %}</li>
+    <li>Double-blind review: submissions must be anonymous.</li>
+    <li>Please follow MICCAI guidelines regarding paper submission format, dual/double submission policy, conflicts of interest, plagiarism, and use of LLMs{% if w.miccai_guidelines != "" %} as described in the <a href="{{ w.miccai_guidelines }}">MICCAI paper submission guidelines</a>{% endif %}.</li>
 </ul>
-<p>If your paper is accepted, it will be published in a joint proceeding with the MICCAI 2026 conference. Once accepted, you will need to prepare a camera-ready submission (guidelines will be provided later).</p>
+<p>Accepted papers are published in the MLCN proceedings alongside MICCAI {{ w.year }}.</p>

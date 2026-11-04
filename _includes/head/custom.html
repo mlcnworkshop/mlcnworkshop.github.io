@@ -1,38 +1,50 @@
 {% include base_path %}
-
-<!-- start custom head snippets -->
-
-<link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ base_path }}/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ base_path }}/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ base_path }}/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ base_path }}/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ base_path }}/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
-<link rel="manifest" href="{{ base_path }}/images/manifest.json?v=M44lzPylqQ">
-<link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
-<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ base_path }}/images/favicon-32x32.png">
+<link rel="apple-touch-icon" href="{{ base_path }}/images/apple-touch-icon.png">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
-
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
+{% assign w = site.data.workshop %}
+<meta property="og:image" content="{{ site.url }}/images/{{ site.og_image }}">
+<meta property="og:image:alt" content="Auckland skyline, venue city of MICCAI {{ w.year }} and MLCN {{ w.year }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}/images/{{ site.og_image }}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ site.url }}/#org",
+      "name": "MLCN – Machine Learning in Clinical Neuroimaging",
+      "alternateName": "MLCN",
+      "url": "{{ site.url }}/",
+      "logo": "{{ site.url }}/images/MLCN_logo_blue.png",
+      "sameAs": ["{{ w.proceedings }}", "{{ w.youtube }}"]
+    },
+    {
+      "@type": "Event",
+      "name": "MLCN {{ w.year }}: Machine Learning in Clinical Neuroimaging",
+      "alternateName": "MLCN {{ w.year }}",
+      "description": "International workshop on machine learning methods for clinical neuroimaging and their translation to clinical practice, held at MICCAI {{ w.year }}.",
+      "url": "{{ site.url }}/",
+      "image": "{{ site.url }}/images/{{ site.og_image }}",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      {% if w.workshop_start != "" %}"startDate": "{{ w.workshop_start }}",{% else %}"startDate": "{{ w.conference_start }}",
+      "endDate": "{{ w.conference_end }}",{% endif %}
+      "location": { "@type": "Place", "name": "MICCAI {{ w.year }}", "address": { "@type": "PostalAddress", "addressLocality": "{{ w.city | split: ',' | first }}", "addressCountry": "{{ w.country_code }}" } },
+      "organizer": { "@id": "{{ site.url }}/#org" },
+      "superEvent": { "@type": "Event", "name": "MICCAI {{ w.year }}", "url": "https://conferences.miccai.org/" }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for q in w.faq %}{ "@type": "Question", "name": {{ q.q | jsonify }}, "acceptedAnswer": { "@type": "Answer", "text": {{ q.a | jsonify }} } }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
     }
-  });
+  ]
+}
 </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
-<!-- end custom head snippets -->
+{% endif %}

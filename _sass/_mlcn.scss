@@ -1,0 +1,79 @@
+/* MLCN look, blended with the Mental Health Mapping lab site (mhm-lab.github.io):
+   quiet greys, 17px system font, pill buttons, highlight box, list rows, centered grey footer.
+   MLCN navy takes the place of MHM green. */
+$accent: #024768;
+$accent-light: #3fa3cf;
+$accent-soft: #eef5f9;
+$ink: #1d1d1f;
+$text: #3d4144;
+$muted: #6e7378;
+$line: #e6e8ea;
+$link: #2f6f9f;
+$tba: #b7791f;
+
+body { color: $text; }
+.page__content { font-size: 17px; line-height: 1.6;
+  a { color: $link; } a:hover { color: $accent; }
+  h1, h2, h3 { color: $ink; border-bottom: 0; }
+}
+.masthead__menu-item a:hover { color: $accent; }
+
+.mlcn-meta { margin-top: -.3rem; color: $accent; font-size: .85rem; font-weight: 700; }
+.mlcn-lead { font-size: 1.2rem; line-height: 1.55; }
+.mlcn-highlight { margin: 1.5rem 0; padding: 1rem 1.25rem; border-left: 4px solid $accent-light; border-radius: 6px;
+  background: $accent-soft; color: $ink; font-weight: 600;
+  span { display: block; font-weight: 400; font-size: .95rem; color: $text; margin-top: .2rem; } }
+
+.mlcn-buttons { display: flex; flex-wrap: wrap; gap: .75rem; margin: 1.75rem 0 2.5rem; }
+.page__content a.mlcn-button { padding: .65em 1.4em; border: 1px solid $accent; border-radius: 999px; background: $accent;
+  color: #fff; font-weight: 600; font-size: .9rem; text-decoration: none;
+  &:hover { background: #01324a; color: #fff; }
+  &.secondary { background: transparent; color: $accent; &:hover { background: $accent; color: #fff; } } }
+
+.mlcn-cards { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: .75rem; margin-bottom: 1rem;
+  @media (max-width: 560px) { grid-template-columns: 1fr; } }
+.page__content a.mlcn-card { display: grid; grid-template-columns: 44px minmax(0,1fr) 16px; gap: .85rem; align-items: center;
+  padding: .85rem 1rem; border: 1px solid $line; border-radius: 12px; color: $text; text-decoration: none; background: #fff;
+  transition: border-color .2s, box-shadow .2s, transform .2s;
+  .ic { width: 44px; height: 44px; border-radius: 11px; display: grid; place-items: center; color: $accent;
+    background: linear-gradient(140deg, $accent-soft, #dcecf5); transition: background .2s, color .2s; }
+  .ic svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+  strong { display: block; color: $ink; font-size: .98rem; line-height: 1.3; }
+  .t { display: block; color: $muted; font-size: .83rem; line-height: 1.35; }
+  .go { width: 16px; height: 16px; fill: none; stroke: $muted; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; transition: transform .2s, stroke .2s; }
+  &:hover { border-color: #bcd7e5; box-shadow: 0 6px 18px rgba(2,71,104,.08); transform: translateY(-1px);
+    .ic { background: $accent; color: #fff; } .go { transform: translateX(3px); stroke: $accent; } strong { color: $accent; } } }
+
+.mlcn-row { display: flex; justify-content: space-between; gap: 1rem; padding: .85rem 0; border-bottom: 1px solid $line;
+  &:first-of-type { border-top: 1px solid $line; }
+  strong { color: $ink; } .date { font-weight: 700; color: $tba; } }
+
+.mlcn-sponsors { display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem 3rem; padding: 1.25rem 0; border-top: 1px solid $line;
+  img { height: 76px; width: auto; max-width: 250px; object-fit: contain; }
+  img.sq { height: 124px; } }
+
+.mlcn-note { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid $line; color: $muted; font-size: .9rem; }
+
+.page__footer { background: #f6f7f8; border-top: 1px solid $line; color: $muted; }
+.mlcn-footer { text-align: center; font-size: .85rem; padding: .5rem 0 1rem;
+  p { margin: .3rem 0; } a { color: $muted; } }
+
+.mlcn-banner { position: relative; margin: 0 0 1.6rem; border-radius: 14px; overflow: hidden;
+  img { display: block; width: 100%; height: 260px; object-fit: cover; object-position: center 40%; }
+  &::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(1,45,67,0) 35%, rgba(1,45,67,.8) 100%); }
+  figcaption { position: absolute; left: 1.25rem; bottom: 1rem; z-index: 1; color: #fff; }
+  .kicker { display: block; font-size: .75rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: #bfe2f1; }
+  .big { display: block; font-size: 2.6rem; font-weight: 800; line-height: 1.05; letter-spacing: -.02em; }
+  @media (max-width: 560px) { img { height: 190px; } .big { font-size: 2rem; } } }
+
+.mlcn-faq { border-top: 1px solid $line;
+  details { border-bottom: 1px solid $line; padding: .8rem 0; }
+  summary { cursor: pointer; font-weight: 700; color: $ink; }
+  summary::marker { color: $accent; }
+  p { margin: .5rem 0 0; color: $text; } }
+
+.page__content ul.mlcn-checks { list-style: none; padding: 0; margin-left: 0;
+  li { position: relative; padding-left: 1.8rem; margin: .55rem 0; }
+  li::before { content: ""; position: absolute; left: 0; top: .2rem; width: 1.15rem; height: 1.15rem; border-radius: 50%;
+    background: $accent-soft url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23024768' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 12.5l4 4L18 8'/%3E%3C/svg%3E") center/70% no-repeat; } }
+@media (max-width: 560px) { .page__content h1 { font-size: 1.7rem; } .mlcn-lead { font-size: 1.08rem; } }

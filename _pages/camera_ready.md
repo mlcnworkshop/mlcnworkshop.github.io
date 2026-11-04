@@ -1,12 +1,12 @@
 ---
+description: "Camera-ready instructions for accepted MLCN papers."
 permalink: /camera_ready/
-title: "Camera Ready Submission"
+title: "Camera-Ready Submission"
 ---
-Congratulations on your accapted paper! Please follow these instructions: 
-<br> 
-<br>
-1.) Before signing the copyright form, carefully read the important information for authors in the guidelines provided and adjust your layout and paper accordingly. You can access the guidelines by clicking on this [link](https://conferences.miccai.org/2026/en/CAMERA-READY-SUBMISSION-GUIDELINES.html)
-<br>
-<br>
-2.) Click on the following [link]({{ site.baseurl }}/files/MLCN2026_ProceedingsPaper_Copyright.docx) to access the new copyright form. Review the copyright form carefully, ensuring that all necessary information is filled in accurately. Sign the copyright form at the designated space provided.
-<br>
+{% assign w = site.data.workshop %}
+
+Congratulations on your accepted paper.
+
+1. Read the MICCAI {{ w.year }} camera-ready guidelines{% if w.camera_ready_guidelines != "" %} ([link]({{ w.camera_ready_guidelines }})){% else %} (link will follow){% endif %} and adjust your paper's layout.
+2. Fill in and sign the copyright form{% if w.copyright_form != "" %} ([download]({{ w.copyright_form }})){% else %} (form will follow){% endif %}.
+3. Upload the final paper and signed form through OpenReview by the camera-ready deadline.

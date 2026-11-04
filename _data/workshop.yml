@@ -1,0 +1,51 @@
+# ------------------------------------------------------------------
+# MLCN — everything that changes from year to year lives HERE.
+# Update this file each cycle; the pages read from it.
+# Use "TBA" for anything not yet known.
+# ------------------------------------------------------------------
+year: 2027
+city: Auckland, New Zealand
+conference_dates: 27 September – 1 October 2027
+conference_start: "2027-09-27"           # ISO dates, used by search engines
+conference_end: "2027-10-01"
+workshop_start: ""                 # e.g. 2027-09-27 once known
+country_code: NZ
+workshop_date: TBA                 # e.g. "Monday, 27 September 2027"
+banner: /images/auckland.jpg
+banner_credit: "Photo: Auckland CBD skyline from the Waitematā Harbour, by Pseudopanax, public domain, via Wikimedia Commons"
+banner_credit_url: https://commons.wikimedia.org/wiki/File:Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg
+
+# Links (leave empty "" until available)
+openreview: ""                     # e.g. https://openreview.net/group?id=MICCAI.org/2027/Workshop/MLCN
+miccai_guidelines: ""              # MICCAI 2027 paper-submission guidelines
+camera_ready_guidelines: ""
+latex_template: ""                 # /files/MICCAI2027-Latex-Template.zip
+word_template: ""
+copyright_form: ""                 # /files/MLCN2027_ProceedingsPaper_Copyright.docx
+
+dates:
+  - { label: Paper submission deadline, date: TBA }
+  - { label: Notification of acceptance, date: TBA }
+  - { label: Camera-ready submission,    date: TBA }
+
+keynotes: []                       # add { name, title, photo, bio, abstract }
+
+proceedings: https://link.springer.com/conference/mlcn
+youtube: https://www.youtube.com/channel/UC7RKhS5bHKiuYXdaBolX6Og
+
+# Last edition — shown as a "thank you" note on the home page
+last:
+  year: 2026
+  city: Strasbourg, France
+  program: /2026/program/
+
+# Short questions and answers: shown on the home page and given to search engines / AI search.
+faq:
+  - q: What is MLCN?
+    a: MLCN (Machine Learning in Clinical Neuroimaging) is an international workshop held with the MICCAI conference since 2018. It brings together researchers in machine learning, neuroscience and clinicians to develop methods for neuroimaging data and translate them into clinical practice.
+  - q: When and where is MLCN 2027?
+    a: MLCN 2027 takes place at MICCAI 2027 in Auckland, New Zealand. MICCAI runs from 27 September to 1 October 2027; the exact workshop day will be announced.
+  - q: How do I submit a paper to MLCN?
+    a: Papers are submitted through OpenReview. They must be original, in Springer LNCS format, at most 8 pages plus up to 2 pages of references, and anonymous for double-blind review.
+  - q: Where are MLCN papers published?
+    a: Accepted papers are published in the MLCN proceedings in Springer Lecture Notes in Computer Science, alongside MICCAI.

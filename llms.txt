@@ -1,0 +1,26 @@
+---
+layout: null
+permalink: /llms.txt
+---
+{% assign w = site.data.workshop %}# MLCN – Machine Learning in Clinical Neuroimaging
+
+> MLCN is an international workshop held with the MICCAI conference since 2018. It brings together researchers in machine learning, neuroscience and clinicians to develop methods for complex neuroimaging data and to translate them into clinical practice. MLCN {{ w.year }} takes place at MICCAI {{ w.year }} in {{ w.city }} ({{ w.conference_dates }}). Workshop day: {{ w.workshop_date }}.
+
+## Key facts
+- Next edition: MLCN {{ w.year }}, MICCAI {{ w.year }}, {{ w.city }}
+{% for d in w.dates %}- {{ d.label }}: {{ d.date }}
+{% endfor %}- Submission: OpenReview{% if w.openreview != "" %} ({{ w.openreview }}){% endif %}; Springer LNCS format, max 8 pages + 2 pages references, double-blind
+- Proceedings: {{ w.proceedings }}
+- Tracks: Machine Learning; Clinical Neuroimaging
+
+## Pages
+- [Home]({{ site.url }}/): overview, key dates, sponsors
+- [Submission & Registration]({{ site.url }}/submission_registration/): call for papers, topics, requirements
+- [Keynote Speakers]({{ site.url }}/keynotes/): current and previous keynotes
+- [Workshop Program]({{ site.url }}/program/): schedule
+- [MLCN {{ w.last.year }} Program]({{ site.url }}{{ w.last.program }}): archived schedule of the last edition
+- [Community & Organizers]({{ site.url }}/community_organizers/): organizing committee and history
+
+## Previous editions
+{% for h in site.data.history %}- {{ h.year }}: keynotes {{ h.keynotes }}
+{% endfor %}

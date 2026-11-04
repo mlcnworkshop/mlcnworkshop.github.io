@@ -1,19 +1,10 @@
-# main links links
+# Top menu. Privacy Policy and Impressum are linked in the footer.
 main:
   - title: "Keynote Speakers"
     url: /keynotes/
-
   - title: "Workshop Program"
-    url: /program/   
-    
+    url: /program/
   - title: "Submission & Registration"
     url: /submission_registration/
-
   - title: "Community & Organizers"
     url: /community_organizers/
-        
-  - title: "Privacy Policy"
-    url: /privacy_policy/
-    
-  - title: "Impressum"
-    url: /impressum/
